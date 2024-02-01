@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-  <h3>Olá me chamo Guilherme tenho 19 anos, sou programador FrondEnd e estou atualmente em processo de aprendizado com as tecnologias:</h3>
+  <h3>Olá me chamo Guilherme e tenho 19 anos, sou programador FrondEnd e estou atualmente em processo de aprendizado com as tecnologias:</h3>
 <br>
   <p><a><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/><a> <a><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/><a> <a></a><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/><a></p>
 <br>
